@@ -18,7 +18,7 @@ Education
   * GPA: 3.95/4.3, Rank: 4/160
   * National Scholarship (Top 2/160), 2016
 
-Work experience
+Experience
 ======
 * **Postdoctoral Researcher** (July 2024 – Present)
   * The Chinese University of Hong Kong
@@ -60,7 +60,6 @@ Teaching
 
 Service and leadership
 ======
-* **Reviewer** for IEEE TCAD, ACM TACO, and other conferences/journals (if applicable)
+* **Reviewer** for DAC, ICCAD, DATE, ESWEEK and other conferences/journals
 * **Professor Charles K. Kao Student Creativity Awards** (2021) – DSA: Dual-Screen Android System (2/4)
 * **National College Student Innovation Project** (2019) – Voice-controlled smart assistant (1/6)
-* **Organizer** of internal workshops on mobile systems (if any)
