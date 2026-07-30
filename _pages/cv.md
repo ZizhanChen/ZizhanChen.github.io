@@ -61,5 +61,5 @@ Teaching
 Service and leadership
 ======
 * **Reviewer** for DAC, ICCAD, DATE, ESWEEK and other conferences/journals
-* **Professor Charles K. Kao Student Creativity Awards** (2021) – DSA: Dual-Screen Android System (2/4)
-* **National College Student Innovation Project** (2019) – Voice-controlled smart assistant (1/6)
+* **Professor Charles K. Kao Student Creativity Awards** (2021) – DSA: Dual-Screen Android System
+* **National College Student Innovation Project** (2019) – Voice-controlled smart assistant
