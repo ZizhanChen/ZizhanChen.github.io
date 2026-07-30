@@ -23,7 +23,7 @@ repository               : "zizhanchen/zizhanchen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Zizhan Chen"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher at CUHK, working on mobile systems, Android OS, display management, and runtime optimization."
